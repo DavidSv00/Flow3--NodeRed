@@ -14,9 +14,9 @@ Para realizar este flow se utilizara lo siguiente;
 
 ## Material de Referencia
 
-- [Instalar VirtualBox y Ubuntu 20.4] (https://www.youtube.com/watch?v=rYkKjmwuot0)
-- [Instalacion de NodeRed en ubuntu 20.4] (https://www.arubacloud.com/tutorial/how-to-install-node-red-on-ubuntu-20-04.aspx)
-- [Introduccion a NodeRed] (https://www.codigoiot.com/curso/introduccion-a-node-red/)
+- [Instalar VirtualBox y Ubuntu 20.4](https://www.youtube.com/watch?v=rYkKjmwuot0)
+- [Instalacion de NodeRed en ubuntu 20.4](https://www.arubacloud.com/tutorial/how-to-install-node-red-on-ubuntu-20-04.aspx)
+- [Introduccion a NodeRed](https://www.codigoiot.com/curso/introduccion-a-node-red/)
 
 ## Instrucciones
 
